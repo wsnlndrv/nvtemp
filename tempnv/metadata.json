@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "nothanks@lelmail.com",
+                "Name": "wsnlndrv"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Nvidia temp",
+        "Icon": "battery",
+        "Id": "com.github.wsnlndrv.nvtemp",
+        "Name": "nvtemp",
+        "Version": "1",
+        "Website": "https://github.com/wsnlndrv/nvtemp"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+} 
